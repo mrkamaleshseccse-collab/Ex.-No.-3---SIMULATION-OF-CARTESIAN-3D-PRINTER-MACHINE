@@ -75,8 +75,8 @@
 <img width="791" height="677" alt="image" src="https://github.com/user-attachments/assets/321f29cc-c547-4e6e-ab33-00ffa0450add" />
 
 
-### Name: RAHUL
-### Register Number:212225230294
+### Name: kamaleshkumar k
+### Register Number:212225040164
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
